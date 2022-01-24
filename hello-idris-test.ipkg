@@ -1,0 +1,8 @@
+package hello-idris-test
+
+version    = 0.0.1
+authors    = "gemmaro"
+license    = "MIT"
+depends    = test, contrib
+main       = Main
+executable = runtests
